@@ -8,7 +8,7 @@ If you're new to Vue.js, we'd recommend checking out this [great Vue.js introduc
 
 Find the detailed description and tutorial for this example [in our documentation](https://docs.comfortable.io/examples/vue-blog-example).
 
-You can also play around with this example on CodeSandBox.
+You can also play around with this example on [CodeSandBox](https://codesandbox.io/s/9jwr8321qr).
 
 
 # Serverless deployment with Netlify
@@ -17,6 +17,6 @@ Deploying your Blog with Netlify is perfect if you don't want to handle a server
 
 Using Netlify for this example is as simple as clicking the following button. You'll be asked to connect your GitHub or GitLab account to let Netlify create a Repository on your behalf.
 
-That's all. Your Blog will be available within seconds. 🚀 😊 
+That's all. Your Blog will be available within seconds. 🚀
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cmftable/comfortable-vue-blog)
