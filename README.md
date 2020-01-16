@@ -6,7 +6,7 @@ If you're new to Vue.js, we'd recommend checking out this [great Vue.js introduc
 
 # Detailed Example
 
-Find the detailed description and tutorial for this example [in our documentation](https://docs.comfortable.io/examples/vue-blog-example).
+Find the detailed description and tutorial for this example [in our documentation](https://docs.comfortable.io/guides/vue-blog-example).
 
 You can also play around with this example on [CodeSandBox](https://codesandbox.io/s/9jwr8321qr).
 
